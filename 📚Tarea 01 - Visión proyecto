@@ -1,0 +1,35 @@
+# Fila Virtual para Consultorías Médicas
+
+## 1. Visión
+Convertirse en la plataforma líder de gestión de espera en salud,
+transformando la experiencia del paciente al eliminar las filas físicas y optimizar el tiempo de los profesionales médicos. 
+Buscamos democratizar el acceso a una atención organizada, puntual y digna para todas las personas,
+independientemente del tamaño de la consultoría.
+
+## 2. Problema
+Actualmente, las consultorías médicas enfrentan tres desafíos críticos:
+* **Saturación Física:** Aglomeraciones en salas de espera que aumentan el riesgo de contagios y el estrés del paciente.
+* **Incertidumbre del Tiempo:** Los pacientes desconocen cuánto tiempo real deberán esperar, lo que genera una percepción negativa del servicio.
+* **Gestión Ineficiente:** El personal administrativo pierde tiempo valioso gestionando turnos manualmente, lo que deriva en errores de prioridad y desorden.
+
+## 3. Alcance
+El proyecto incluirá en su fase inicial:
+* **Registro de Pacientes:** Sistema para que los usuarios ingresen a la fila de forma remota.
+* **Monitor de Fila en Tiempo Real:** Visualización del turno actual y tiempo estimado de espera.
+* **Panel de Control Médico:** Herramienta para que el doctor llame al siguiente paciente y gestione su disponibilidad.
+* **Notificaciones:** Avisos automáticos cuando el turno del paciente esté próximo.
+
+*Nota: No incluirá en esta fase inicial el manejo de expedientes clínicos completos ni pasarelas de pago.*
+
+## 4. Stakeholders
+* **Pacientes:** Personas que requieren atención médica y buscan optimizar su tiempo.
+* **Médicos/Consultores:** Profesionales que necesitan un flujo de trabajo ordenado y constante.
+* **Personal Administrativo/Recepcionistas:** Encargados de validar los ingresos y coordinar la logística del centro.
+* **Ingeniero/Desarrollador (Tú):** Responsable de la creación, mantenimiento y escalabilidad de la plataforma.
+
+## 5. Definition of Success (Definición de Éxito)
+El proyecto se considerará exitoso si logra:
+* **Reducción de Tiempo en Sala:** Disminuir en un 50% la presencia física de pacientes en la sala de espera.
+* **Precisión de Turnos:** Que el tiempo estimado de espera tenga un margen de error menor a 10 minutos.
+* **Satisfacción del Usuario:** Obtener una calificación positiva de al menos el 80% de los pacientes en pruebas piloto.
+* **Adopción Tecnológica:** Que el personal de la consultoría pueda gestionar la fila sin necesidad de asistencia técnica constante.
