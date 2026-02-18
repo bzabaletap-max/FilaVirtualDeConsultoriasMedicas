@@ -33,3 +33,9 @@ El proyecto se considerará exitoso si logra:
 * **Precisión de Turnos:** Que el tiempo estimado de espera tenga un margen de error menor a 10 minutos.
 * **Satisfacción del Usuario:** Obtener una calificación positiva de al menos el 80% de los pacientes en pruebas piloto.
 * **Adopción Tecnológica:** Que el personal de la consultoría pueda gestionar la fila sin necesidad de asistencia técnica constante.
+
+## 6. Cronograma de Actividades (Roadmap)
+* **Fase 1 (Semana 1-2):** Análisis de requisitos detallados y diseño de la base de datos (Entidades de Pacientes, Médicos y Turnos).
+* **Fase 2 (Semana 3-4):** Desarrollo del Backend para la lógica de asignación de turnos y creación de la interfaz de usuario (Frontend).
+* **Fase 3 (Semana 5):** Pruebas de integración, simulación de carga de usuarios y corrección de errores.
+* **Fase 4 (Semana 6):** Despliegue de la versión alfa y entrega final de documentación.
