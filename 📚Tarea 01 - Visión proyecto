@@ -39,3 +39,35 @@ El proyecto se considerará exitoso si logra:
 * **Fase 2 (Semana 3-4):** Desarrollo del Backend para la lógica de asignación de turnos y creación de la interfaz de usuario (Frontend).
 * **Fase 3 (Semana 5):** Pruebas de integración, simulación de carga de usuarios y corrección de errores.
 * **Fase 4 (Semana 6):** Despliegue de la versión alfa y entrega final de documentación.
+
+---
+
+## 7. Ciclo de Vida del Software (SDLC)
+* **Metodología:** **Agile / Scrum**. Se trabajará en iteraciones cortas para obtener feedback constante y asegurar que la fila virtual sea funcional desde las primeras etapas.
+* **Modelo de Calidad:** Enfoque en la experiencia del usuario (UX) y la estabilidad de los turnos en tiempo real.
+
+## 8. Workflow (Flujo de Trabajo)
+Utilizaremos **GitHub Flow**, un flujo de trabajo ligero y basado en ramas:
+1. **Ramas (Branches):** El código estable siempre estará en `main`.
+2. **Features:** Para cada nueva tarea (ej. "Pantalla de ingreso"), se creará una rama nueva.
+3. **Pull Requests:** Antes de unir una mejora a `main`, se revisará el código para asegurar que no haya errores.
+
+
+## 9. Definiciones de Proceso (DoR y DoD)
+
+### Definition of Ready (DoR) - "Listo para empezar"
+Antes de empezar a programar una funcionalidad, esta debe:
+* Tener una descripción clara del beneficio para el paciente o médico.
+* Contar con los recursos necesarios (logos, base de datos diseñada).
+* Estar asignada como una tarea pendiente en el tablero del proyecto.
+
+### Definition of Done (DoD) - "Listo para entregar"
+Una funcionalidad se considera terminada cuando:
+* El código funciona correctamente sin cerrarse inesperadamente.
+* La interfaz es amigable y responde bien en computadoras y celulares.
+* El código ha sido subido al repositorio y la rama de la tarea se ha cerrado con éxito.
+
+## 10. Estructura Inicial del Repositorio
+* `/src`: Carpeta destinada al código fuente (HTML, CSS, JS, etc.).
+* `/docs`: Espacio para manuales de usuario y diagramas de arquitectura.
+* `/assets`: Almacén de recursos visuales (logos de clínicas, iconos de turnos).
